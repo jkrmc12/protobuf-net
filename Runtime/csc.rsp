@@ -1,0 +1,6 @@
+
+-r:System.Memory.dll
+-r:System.Buffers.dll
+-r:System.Reflection.Emit.dll
+-r:System.Reflection.Emit.Lightweight.dll
+-r:System.ServiceModel.Primitives.dll
